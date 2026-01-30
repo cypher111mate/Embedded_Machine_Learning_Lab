@@ -1,0 +1,11 @@
+.DS_Store
+.venv/
+Gitlab_Jupyter.ipynb
+
+# Datasets / large binaries
+*.tar.gz
+exercises/**/data/
+*.pt
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
